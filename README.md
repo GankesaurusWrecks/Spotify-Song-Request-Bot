@@ -1,6 +1,8 @@
 ### What You'll Need
 •       nodejs.org: Node.js installed, download from https://nodejs.org/
+
 •       Spotify Premium account
+
 •       A secondary Twitch account to use as the bot
 
 ### Part 1 - Install & Set Up Spotify
