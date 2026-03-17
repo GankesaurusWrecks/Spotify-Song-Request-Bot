@@ -1,0 +1,15 @@
+module.exports = {
+  // --- Spotify ---
+  SPOTIFY_CLIENT_ID: 'INSERT YOUR SPOTIFY CLIENT ID',
+  SPOTIFY_CLIENT_SECRET: 'INSERT YOUR SPOTIFY CLIENT SECRET',
+  SPOTIFY_REDIRECT_URI: 'http://127.0.0.1:8888/callback',
+
+  // --- Twitch ---
+  TWITCH_BOT_USERNAME: 'INSERT BOT ACCOUNT USERNAME (all lowercase)',
+  TWITCH_OAUTH_TOKEN: 'INSERT YOUR OAUTH TOKEN (no oauth: prefix)',
+  TWITCH_CHANNEL: 'INSERT YOUR MAIN CHANNEL NAME (all lowercase)',
+
+  // --- Song Request Settings ---
+  COMMAND: '!Sr',
+  MAX_QUEUE: 10, 
+};
